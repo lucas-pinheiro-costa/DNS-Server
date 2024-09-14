@@ -6,7 +6,7 @@ Este projeto tem como objetivo a implementação e configuração de um servidor
 
 ## O que é DNS?
 
-O DNS (Domain Name System) é um sistema que traduz nomes de domínios legíveis por humanos (como `www.exemplo.com`) para endereços IP legíveis por máquinas (como `192.0.2.1`). Esse serviço é essencial para o funcionamento da internet, permitindo que os usuários acessem recursos e sites na web de maneira intuitiva, sem a necessidade de memorizar endereços IP.
+O DNS é um sistema que traduz nomes de domínios legíveis por humanos (como `www.exemplo.com`) para endereços IP legíveis por máquinas (como `192.0.2.1`). Esse serviço é essencial para o funcionamento da internet, permitindo que os usuários acessem recursos e sites na web de maneira intuitiva, sem a necessidade de memorizar endereços IP.
 
 ### Componentes Básicos de um Servidor DNS
 
